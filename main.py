@@ -169,7 +169,6 @@ def print_banner():
 
 - Made By Rulzarian
 
-
 '''
     print(f"{red}{banner}{reset}")
     print(f"{red}UK Armory Tool!{reset}")
