@@ -165,7 +165,9 @@ def print_banner():
 ██║   ██║██╔═██╗     ██╔══██║██╔══██╗██║╚██╔╝██║██║   ██║██╔══██╗  ╚██╔╝  
 ╚██████╔╝██║  ██╗    ██║  ██║██║  ██║██║ ╚═╝ ██║╚██████╔╝██║  ██║   ██║   
  ╚═════╝ ╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   
-    '''
+   
+
+   - Made By Rulzarian'''
     print(f"{red}{banner}{reset}")
     print(f"{red}UK Armory Tool!{reset}")
     print(f"{red}[1] Research Any UK Phone Number (e.g. +44 PhoneNumberHere){reset}")
